@@ -1,0 +1,11 @@
+tensorflow==2.16.1
+tensorflow-hub==0.15.0
+pillow
+numpy
+requests
+pymongo
+scikit-learn
+flask
+flask-cors
+opencv-python 
+gunicorn
